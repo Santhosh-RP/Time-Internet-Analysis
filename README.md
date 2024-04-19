@@ -1,4 +1,5 @@
-Time on the internet Data Analysis by using EDA
+<h2>Time on the internet Data Analysis by using EDA</h2>
+
 ![image](https://github.com/Santhosh-RP/Time-Internet-Analysis/assets/109569208/e296e031-a228-4b26-9f8a-41f530c10641)
 
 Libbaries used:
