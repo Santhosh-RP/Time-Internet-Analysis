@@ -13,6 +13,6 @@ The dataset 'Time internet data ' is collected from kaggle , wgwre dataset conta
 By using EDA we need to analyse the data 
 
 <b>Conclusions</b>
--> The high no of interent users are recorded in the North America Region in the Year 1990
--> By the Year of 2020 their is high no of internet users in Asia contient 
--> Top 5 Asian countries in year 2020 with high no of interbet users is China
+1. The high no of interent users are recorded in the North America Region in the Year 1990
+2.  By the Year of 2020 their is high no of internet users in Asia contient
+3.   Top 5 Asian countries in year 2020 with high no of interbet users is China
