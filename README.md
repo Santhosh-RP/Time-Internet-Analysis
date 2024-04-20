@@ -8,7 +8,7 @@ Libbaries used:
 3. Matplotlib
 4. Seaborn
 
-The dataset 'Time internet data ' is collected from kaggle , wgwre dataset contains the information of internet users by contries wise from 1990 to 2020
+The dataset 'Time internet data ' is collected from kaggle , In this  dataset contains the information of internet users by contries wise from 1990 to 2020
 
 By using EDA we need to analyse the data 
 
